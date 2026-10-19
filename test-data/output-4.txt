@@ -1,1 +1,2 @@
+SUCCESS # init
 FAIL # <- elso bukott, masodik ne lojon
