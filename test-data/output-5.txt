@@ -1,0 +1,2 @@
+SUCCESS # <- mindket elment
+FAIL # <- nincs tobb
