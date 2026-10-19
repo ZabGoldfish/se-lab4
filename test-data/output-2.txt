@@ -1,0 +1,4 @@
+SUCCESS # <- elso elso
+SUCCESS # <- elso masodik
+SUCCESS # <- masodik elso
+FAIL # <- masodik masodik
